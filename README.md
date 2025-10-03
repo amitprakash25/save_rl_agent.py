@@ -17,7 +17,3 @@ This means training a reinforcement learning (RL) model, saving it to disk, and 
   2. Save the trained model (`ppo_cartpole_agent.zip`).
   3. Load the model back to demonstrate reuse.
 
-## 📦 Installation
-Run the following to install required libraries:
-```bash
-pip install stable-baselines3 gymnasium
